@@ -2,7 +2,7 @@
 //  DemoBackgroundSessionTests.m
 //  DemoBackgroundSessionTests
 //
-//  Created by Александр О. Кургин on 25.09.15.
+//  Created by Александр О. Кургин on 21.09.15.
 //  Copyright (c) 2015 Yandex.Money. All rights reserved.
 //
 
